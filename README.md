@@ -1,5 +1,7 @@
 # Accordion component
 
+using react
+
 ## Steps
 
 the flow of the application should look something like this:
